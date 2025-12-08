@@ -9,3 +9,4 @@
 | 18.11.2025 | 1 | Portswigger  | Access control Labs |
 | 24.11.2025 | 5 | The booking system project  | Phase 1 part 1 |
 | 2.12.2025 | 3 | The booking system project  | Phase 1 part 2 |
+| 8.12.2025 | 5 | The booking system project  | Phase 2 |
