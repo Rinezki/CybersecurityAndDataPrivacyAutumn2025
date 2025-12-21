@@ -12,3 +12,5 @@
 | 2.12.2025 | 3 | The booking system project  | Phase 1 part 2 |
 | 8.12.2025 | 5 | The booking system project  | Phase 2 |
 | 18.12.2025 | 6 | The booking system project  | Phase 3 |
+| 21.12.2025 | 1 | Portswigger  |Path traversal lab 1 |
+| 21.12.2025 | 2 | Portswigger  | Business logic vulnerabilities labs 1-2 |
